@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: Sales-Order-Service
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: student
+Built-By: PintuShaw
 Implementation-Vendor-Id: com.shopping.service
-Build-Jdk: 1.8.0_181
+Build-Jdk: 1.8.0_111
 Implementation-URL: http://projects.spring.io/spring-boot/Sales-Order-
  Service/
 Created-By: Maven Integration for Eclipse
